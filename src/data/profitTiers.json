@@ -1,0 +1,36 @@
+{
+  "tiers": [
+    {
+      "tier": "TIER1",
+      "minProfitUsd": 501
+    },
+    {
+      "tier": "TIER2",
+      "minProfitUsd": 1001
+    },
+    {
+      "tier": "TIER3",
+      "minProfitUsd": 2001
+    },
+    {
+      "tier": "TIER4",
+      "minProfitUsd": 5001
+    },
+    {
+      "tier": "TIER5",
+      "minProfitUsd": 10001
+    },
+    {
+      "tier": "TIER6",
+      "minProfitUsd": 20001
+    },
+    {
+      "tier": "TIER7",
+      "minProfitUsd": 50001
+    },
+    {
+      "tier": "TIER8",
+      "minProfitUsd": 100001
+    }
+  ]
+}

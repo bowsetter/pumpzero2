@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "CommonJS",
+    "moduleResolution": "node",  // Explicitly override moduleResolution to node
+    "outDir": "dist",
+    "target": "ES2019",
+    "isolatedModules": false,
+    "noEmit": false
+  },
+  "include": ["server.js", "src/server/**/*.ts"]
+}
